@@ -1,0 +1,7 @@
+http://m.it610.com/article/4139550.htm
+
+http://queirozf.com/entries/scikit-learn-pipeline-examples
+
+https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a
+
+https://www.analyticsvidhya.com/blog/2017/08/introduction-to-multi-label-classification/
